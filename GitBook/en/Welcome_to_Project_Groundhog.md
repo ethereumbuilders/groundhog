@@ -4,6 +4,9 @@ How much of a social network should live on the blockchain? How much in Whisper?
 
 Project Groundhog seeks to find an answer to these questions. 
 
+Here is a YouTube presentation of the project given by [@lisperati](https://twitter.com/lisperati):
+https://www.youtube.com/watch?v=WFeJYv3PSaI
+
 Join us in this quest!
 
 * [Say hello!](https://gitter.im/ethereumbuilders/groundhog)
@@ -11,6 +14,3 @@ Join us in this quest!
 * [Contribute code](https://github.com/ethereumbuilders/groundhog)
 * [Help with documentation](https://github.com/ethereumbuilders/groundhog/wiki)
 
-Here is a YouTube presentation by [@lisperati](https://twitter.com/lisperati)
-
-{% youtube %}https://www.youtube.com/watch?v=WFeJYv3PSaI{% endyoutube %}
