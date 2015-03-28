@@ -1,6 +1,3 @@
 {
-    "plugins": [
-        "YouTube Video"
-    ],
-    "pluginsConfig": {}
+    plugins: ["youtube"]
 }
